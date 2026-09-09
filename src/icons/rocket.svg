@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.52887 8.61631L9.14656 9.54486C10.8495 8.17822 13.6082 4.67235 12.185 0.598505C8.42074 1.06297 6.34486 5.2663 5.95868 7.71505L7.57638 8.6436" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.32372 9.07106C8.30195 9.93849 8.06232 10.7495 5.97179 11.3791C5.59358 9.43701 6.10454 8.59938 6.78341 8.18693" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.86719 1.47656C9.86719 1.47656 9.65919 2.27169 10.8368 2.94762C12.0144 3.62355 12.603 3.0469 12.603 3.0469" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="1.0012" cy="0.998284" rx="1.0012" ry="0.998284" transform="matrix(0.867283 0.497815 -0.502188 0.864758 9.49219 3.24609)" fill="currentColor"/>
+<path d="M7.11763 4.46862C5.8223 4.2139 3.80756 5.96815 4.62902 8.1804L6.0568 7.77007" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.4292 6.94544C12.2988 7.93335 11.7781 10.5451 9.44025 10.944L9.08381 9.50953" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.5" y1="-0.5" x2="3.41108" y2="-0.5" transform="matrix(-0.502188 0.864758 -0.867283 -0.497815 5.07812 11.9727)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.5" y1="-0.5" x2="3.41108" y2="-0.5" transform="matrix(-0.502188 0.864758 -0.867283 -0.497815 7.45312 11.9141)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="0.5" y1="-0.5" x2="3.41108" y2="-0.5" transform="matrix(-0.502188 0.864758 -0.867283 -0.497815 3.92969 10.4492)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

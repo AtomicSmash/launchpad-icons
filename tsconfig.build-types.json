@@ -1,0 +1,15 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"include": [
+		".",
+		"../../../../wordpress__server-side-render.d.ts",
+		"../../../../wordpress.d.ts"
+	],
+	"exclude": ["./dist/**/*"],
+	"extends": "../../../../tsconfig.json",
+	"compilerOptions": {
+		"emitDeclarationOnly": true,
+		"declaration": true,
+		"declarationMap": true
+	}
+}

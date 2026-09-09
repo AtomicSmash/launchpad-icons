@@ -1,0 +1,23 @@
+{
+  "name": "atomicsmash/compiler-helpers",
+  "authors": [
+    {
+      "name": "Atomic Smash",
+      "email": "mail@atomicsmash.co.uk",
+      "homepage": "https://www.atomicsmash.co.uk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AtomicSmash\\CompilerHelpers\\": "classes/"
+    }
+  },
+  "require-dev": {
+    "atomicsmash/php-coding-standards": "^1.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}

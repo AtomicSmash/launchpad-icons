@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ruleset name="Atomic Smash's Rules">
+	<rule ref="./vendor/atomicsmash/php-coding-standards/phpcs.xml"/>
+	<rule ref="WordPress.NamingConventions.PrefixAllGlobals">
+		<properties>
+			<property name="prefixes" type="array">
+				<!-- functions / global variables -->
+				<element value="atomicsmash_compiler_helpers_"/>
+				<!-- Namespaces/classes -->
+				<element value="AtomicSmash"/>
+			</property>
+		</properties>
+	</rule>
+	<!-- Lines below this point are tests for potential rules, and once stable can be removed -->
+</ruleset>

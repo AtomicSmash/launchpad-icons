@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "48aa80b3e82bc65edf7f136818a52fac",
+    "packages": [
+        {
+            "name": "atomicsmash/compiler-helpers",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AtomicSmash/compiler-helpers.git",
+                "reference": "da32ed2117ecba9b43f1794f9d2838be4a6c3f3e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AtomicSmash/compiler-helpers/zipball/da32ed2117ecba9b43f1794f9d2838be4a6c3f3e",
+                "reference": "da32ed2117ecba9b43f1794f9d2838be4a6c3f3e",
+                "shasum": ""
+            },
+            "require-dev": {
+                "atomicsmash/php-coding-standards": "^1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AtomicSmash\\CompilerHelpers\\": "classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Atomic Smash",
+                    "email": "mail@atomicsmash.co.uk",
+                    "homepage": "https://www.atomicsmash.co.uk"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/AtomicSmash/compiler-helpers/issues",
+                "source": "https://github.com/AtomicSmash/compiler-helpers/tree/v1.0.0"
+            },
+            "time": "2026-01-19T17:00:11+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}

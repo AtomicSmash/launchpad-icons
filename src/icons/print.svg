@@ -1,0 +1,10 @@
+<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 12.3648H1.53846C1.24108 12.3648 1 12.1237 1 11.8263V5.4994C1 5.20202 1.24108 4.96094 1.53846 4.96094H14.4615C14.7589 4.96094 15 5.20201 15 5.4994V11.8263C15 12.1237 14.7589 12.3648 14.4615 12.3648H14" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M12 4.5V3.00413L9.5 1H4V4.5" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M9 1V3H12" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M4.23047 9.94141V15.0568H11.7689V9.94141" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="3.78906" y1="9.44141" x2="12.2121" y2="9.44141" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="12.2695" y1="6.34766" x2="13.0195" y2="6.34766" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="6.07812" y1="11.1914" x2="9.92428" y2="11.1914" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="6.07812" y1="12.9414" x2="9.92428" y2="12.9414" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

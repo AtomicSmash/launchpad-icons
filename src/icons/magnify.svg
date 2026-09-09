@@ -1,0 +1,6 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="7" cy="7" r="6" stroke="currentColor" stroke-linejoin="bevel"/>
+<path d="M11 11L16 16" stroke="currentColor" stroke-linejoin="bevel"/>
+<rect x="11.375" y="6.5" width="1" height="8.75" transform="rotate(90 11.375 6.5)" fill="currentColor"/>
+<rect x="6.5" y="2.625" width="1" height="8.75" fill="currentColor"/>
+</svg>

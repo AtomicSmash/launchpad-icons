@@ -1,0 +1,13 @@
+{
+	"name": "atomicsmash/launchpad-icons",
+	"description": "This adds the Launchpad icon set to Launchpad Blocks.",
+	"type": "wordpress-plugin",
+	"autoload": {
+		"psr-4": {
+			"Launchpad\\Icons\\": "classes/"
+		}
+	},
+	"require": {
+		"atomicsmash/compiler-helpers": "^1.0.0"
+	}
+}

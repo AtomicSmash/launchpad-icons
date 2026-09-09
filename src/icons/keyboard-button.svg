@@ -1,0 +1,7 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="1.5" width="13" height="13" rx="1.5" stroke="currentColor"/>
+<rect x="3" y="1.5" width="10" height="10" rx="1.5" stroke="currentColor"/>
+<line x1="1.58397" y1="13.7226" x2="3.58397" y2="10.7226" stroke="currentColor"/>
+<line y1="-0.5" x2="3.60555" y2="-0.5" transform="matrix(-0.5547 -0.83205 -0.83205 0.5547 14 14)" stroke="currentColor"/>
+<path d="M10.1416 8.5H9.19824L8.82324 7.52441H7.10645L6.75195 8.5H5.83203L7.50488 4.20508H8.42188L10.1416 8.5ZM8.54492 6.80078L7.95312 5.20703L7.37305 6.80078H8.54492Z" fill="currentColor"/>
+</svg>
